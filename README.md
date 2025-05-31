@@ -57,8 +57,6 @@ Foram aplicadas técnicas visuais como gráficos de barras, setores, histogramas
   - Serviços adicionais (streaming, segurança, suporte técnico)
   - Faixa etária e gênero
 
-**Exemplo:** ![Histograma](histograma.png)
-
 ---
 
 ## 📌 Principais Descobertas

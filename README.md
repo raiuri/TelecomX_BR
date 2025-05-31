@@ -89,7 +89,6 @@ Este estudo proporciona uma compreensão detalhada dos fatores que levam ao chur
 
 ## 👤 Sobre o Autor
 
-Desenvolvido por Müller Pereira  
 📧 Email: raiuresantos@ymail.com  
 📎 GitHub: [github.com/raiuri](https://github.com/raiuri)
 
